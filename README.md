@@ -3,7 +3,6 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
 
 Plataforma de Locação de Vídeos Online
 Este projeto consiste em uma plataforma de locação de vídeos online, inspirada no modelo da Netflix. O objetivo principal é oferecer aos usuários uma maneira prática e acessível de alugar filmes e séries para assistir no conforto de suas casas.
